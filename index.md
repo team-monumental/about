@@ -20,13 +20,17 @@
 
 ## Artifacts
 
-##### [Domain Model](images/domain-model.png)
+##### [Four Ups](https://docs.google.com/document/d/1zj41gDrOXjOdTirc-dX1grCMg_b03CCdE1PfyXQn3BE/edit?usp=sharing)
 
-> Highlights the key players and interactions within the project's domain
+> Weekly reports on completed activities, ongoing activities, risks, and needs from our project sponsor
 
 ##### [Project Plan](https://docs.google.com/document/d/1BQaKm9uFAReWpxEQYl4BK4ycp-o0STtcgb0kFxqWWlU/edit?usp=sharing)
 
 > Outlines the process methodology that will guide the team through the project
+
+##### [Domain Model](images/domain-model.png)
+
+> Highlights the key players and interactions within the project's domain
 
 ##### [Development Process](https://docs.google.com/document/d/1L28gYyYZFW0e64cs4QhnlfTc214zBOZBC5krmAOhM34/edit?usp=sharing)
 

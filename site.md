@@ -20,15 +20,15 @@
 
 ## Artifacts
 
-##### [Domain Model]()
+##### [Domain Model](images/domain-model.png)
 
 > Highlights the key players and interactions within the project's domain
 
-##### [Project Plan]()
+##### [Project Plan](https://docs.google.com/document/d/1BQaKm9uFAReWpxEQYl4BK4ycp-o0STtcgb0kFxqWWlU/edit?usp=sharing)
 
 > Outlines the process methodology that will guide the team through the project
 
-##### [Development Process]()
+##### [Development Process](https://docs.google.com/document/d/1L28gYyYZFW0e64cs4QhnlfTc214zBOZBC5krmAOhM34/edit?usp=sharing)
 
 > Documents the team's development, testing, and source control practices
 

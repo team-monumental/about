@@ -36,11 +36,7 @@
 
 > Documents the team's development, testing, and source control practices
 
-## Metrics
+#####[Time Tracking Document](https://docs.google.com/spreadsheets/d/1lHfrxCyXWmXALXMZWxi2E5mCRW76cWa-TF2wInzyJ7E/edit?usp=sharing)
 
-### Time
-
-| Week of | Ben Vogler | Nick Deyette | AJ Delposen | Ben Smith |
-| ------- | ---------- | ------------ | ----------- | --------- |
-| 9/2     |            |              |             |           |
+> Tracks time spent weekly on the project by team members
 
